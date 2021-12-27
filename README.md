@@ -1,6 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=aaffaa&height=300&section=header&text=greeg01&fontSize=90&fontColor=ffffff)
-
-
 ## Available Languages
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
